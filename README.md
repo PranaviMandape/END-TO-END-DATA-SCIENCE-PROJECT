@@ -56,8 +56,12 @@ A major challenge was integrating the preprocessing steps into the deployment pi
 
 The project successfully delivered a fully functional and deployed diabetes prediction system. Users can easily enter patient health metrics into a web form and receive instant feedback on the diabetes risk prediction. This solution demonstrates practical application of data science and machine learning concepts, showcasing the journey from raw data to a live, interactive product.
 
+# Model Functionality
 
+User Interface for Diabetes Risk Prediction
 
+![Image](https://github.com/user-attachments/assets/723d9119-1b66-4b18-b9ab-073f2bc5d8b2)
+![Image](https://github.com/user-attachments/assets/4ffe1395-b4cf-4f6a-ad52-0711ab326b18)
 
 
 
